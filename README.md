@@ -1,4 +1,5 @@
 # My-Notes
+## A website for making notes with CRUD operations
 Full Stack website created for notes taking with React.js framework as front end and Django as backend
 
 <img width="954" alt="image" src="https://github.com/DSam327/My-Notes/assets/113661235/78b2c0bd-4885-4096-ba37-34e5f259bb5d">
